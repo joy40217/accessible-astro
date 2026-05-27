@@ -25,17 +25,17 @@ export default defineThemeConfig({
       {
         type: 'link',
         label: 'Home',
-        href: '/',
+        href: '/accessible-astro/',
       },
       {
         type: 'link',
         label: 'Blog',
-        href: '/blog',
+        href: '/accessible-astro/blog',
       },
       {
         type: 'link',
         label: 'Portfolio',
-        href: '/portfolio',
+        href: '/accessible-astro/portfolio',
       },
       {
         label: 'Features',
@@ -43,42 +43,42 @@ export default defineThemeConfig({
         items: [
           {
             label: 'Accessibility statement',
-            href: '/accessibility-statement',
+            href: '/accessible-astro/accessibility-statement',
           },
           {
             label: 'Accessible components',
-            href: '/accessible-components',
+            href: '/accessible-astro/accessible-components',
           },
           {
             label: 'Accessible launcher',
-            href: '/accessible-launcher',
+            href: '/accessible-astro/accessible-launcher',
           },
           {
             label: 'Color contrast checker',
-            href: '/color-contrast-checker',
+            href: '/accessible-astro/color-contrast-checker',
           },
           {
             label: 'Markdown page',
-            href: '/markdown-page',
+            href: '/accessible-astro/markdown-page',
           },
           {
             label: 'MDX page',
-            href: '/mdx-page',
+            href: '/accessible-astro/mdx-page',
           },
           {
             label: '404 page',
-            href: '/404',
+            href: '/accessible-astro/404',
           },
           {
             label: 'Sitemap',
-            href: '/sitemap',
+            href: '/accessible-astro/sitemap',
           },
         ],
       },
       {
         type: 'link',
         label: 'Contact',
-        href: '/contact',
+        href: '/accessible-astro/contact',
       },
       {
         type: 'link',
